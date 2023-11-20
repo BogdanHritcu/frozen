@@ -1,4 +1,15 @@
-tests/test_main
-tests/*.o
-*.*~
-Makefile~
+# Build
+[Bb]uild/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+.vs/
+*.sln
+*.sln.*
+*.vcxproj
+*.vcxproj.*
+
+# Visual Studio Code
+.vscode/
+.history/
